@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Preetinder Singh
+ * @author Preetinder Singh CHANGEY MOO
  */
 public class StudList {
 
